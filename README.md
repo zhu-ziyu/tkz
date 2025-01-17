@@ -14,3 +14,32 @@ G11 robot class porject的奇怪的储存库（**google drive不如github一根�
 大齿轮小齿轮修复？？？
 <br>
 在做了....预计完成时间周二
+<br>
+# G11 Robot Class Project
+
+**Google Drive is no match for GitHub.**  
+The final version is determined by numbers – the higher the number, the newer the version.
+
+---
+
+## Next Update:
+Unknown... procrastinating...  
+
+---
+
+## Website:
+[www.ziyusam.com](http://www.ziyusam.com)
+
+---
+
+## Tasks Remaining:
+- [ ] **Design Report**  
+- [ ] **Power-on Testing**  
+- [ ] **Link 3D Printed Parts with Robot**  
+- [ ] **Add Counterweight?**  
+- [ ] **Fix Large and Small Gears??**  
+
+---
+
+**In Progress...**  
+**Estimated Completion Time: Tuesday**
